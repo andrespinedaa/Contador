@@ -1,0 +1,34 @@
+@media screen and (max-width: 830px){
+    #root{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .adjust__button{
+        position: relative;
+        right: 0;
+        bottom: 0;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .adjust__menu{
+        position: relative;
+        right: 0;
+        bottom: 0;
+    }
+
+    .sections__container{
+        display: flex;
+        flex-direction: column;
+    }
+}

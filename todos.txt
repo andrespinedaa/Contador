@@ -1,0 +1,9 @@
+1. hacer fixed.
+2. arregalr los extilos de section.
+3. hacer otra interface para create--group.
+4. hacer validation de group in groups.
+5. hacer otra interface para adjust.
+6. crear Welcome and Presets.
+7. hacer mobile.
+8. hacer Toaster.
+2. deploy

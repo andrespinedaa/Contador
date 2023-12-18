@@ -1,0 +1,30 @@
+.create__group--button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+.create__group--form {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.create__group--inputs {
+    display: flex;
+    gap: 5px;
+}
+
+.create__group--inputInfo {
+    width: 95px;
+}
+
+.create__group--actions {
+    display: flex;
+    align-items: center;
+}
